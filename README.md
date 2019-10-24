@@ -37,10 +37,10 @@
 
 
 #### Classroom Segments
-  * 10 minutes of Inspiration: Sharing Codedrops, Dribbble, Podcasts tidbits
+  * 10 minutes of Inspiration: Sharing Codedrops, Dribbble, Podcasts tidbits, etc.
   * Web Dev Brain Teasers
   * Homework Session: previous and next HW Q&A
-  * Main Lecture Topic: Slides & Review of Video Course Material
+  * Main Lecture Topic: Slides & Review of Primary Course Material
   * Code-Along: Hands-on, Guided coding exercise
   * Survey of Computer Science Topics & Theory
   * Project Session: Introduce project & advice on first steps
@@ -52,6 +52,7 @@
   * [Trello](https://trello.com/b/kP8TwrOh/mcc-frontend-academy)
 
 #### Certificates for Completion of Course
+* Awarded to students based on attendance and completion of homework & projects
 
 ##### Other Online Class Resources
   * [Slack](frontendacademy.slack.com)
