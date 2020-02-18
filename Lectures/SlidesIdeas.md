@@ -3,7 +3,7 @@ https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/#.xd
 https://www.freecodecamp.org/news/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053/
 
 
-
+use https://carbon.now.sh/ to create code snapshots
 
 Curriculum topics
 https://css-tricks.com/average-web-page-data-analyzing-8-million-websites/ https://www.advancedwebranking.com/html/

@@ -66,6 +66,7 @@ lexical scoping
 docker
 cookies, localStorage, url parameters
 Server side rendering, SPA, jam stack, vs isomorphic JS (initial SSR with SPA afterwards)
+PWA - progressive web apps should soon replace native mobile apps
 regex
 speechRecognition API
 url encoding
@@ -109,6 +110,7 @@ hosting, cdn, load balancing
 performance, layout thrashing, race conditions
 security, XSS, CSFR, sessions
 debugging, dev tools, console REPL
+debugging - go over each of the tabs: network, application, audits(lighthouse), sources, security, performance, memory
 Canvas
 WebGL, web assembly, performance
 Script tags vs build tools
@@ -116,7 +118,9 @@ error handling, try/catch
 logging, API Mocking
 server side rendering, vs client side
 
-components vs. separation of concerns, Web components
+Project idea: Make a chrome tb extension Project (simple home/starting page) to learn JSON and practice HTML/CSS (possibly use fetch to get weather)
+
+components vs. separation of concerns, Web components won and "concerns" are deemed best seen as component based. But a battle still rages over single file components vs. multi file components (SFC should win, I think)
 shadow dom API
 RXjs
 refactoring
