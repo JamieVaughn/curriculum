@@ -1,7 +1,11 @@
 # MCC Frontend Professional Certification
   * To Equip students with modern skills and tools needed to become a professional Frontend Developer or even launch their own online venture!
+  * Offered through [Monroe Community College PRofessional Workforce Development Program](https://workforceforward.com/about-mcc-corporate-college/)
+
+  * See Full Course Offerings [here](https://workforceforward.com/professional-development/)
 
 ## Course & Instructors
+  * [Frontend Developer Professional](https://campusce.monroecc.edu/monroecc/course/course.aspx?C=621)
   * Remote for now, otherwise at MCC Downtown Campus, 7th Floor, Room 702
   * Meets Tuesdays and Thursdays, 6:30 - 9:30pm (Start Date: TBD)
 
@@ -10,6 +14,7 @@
 ## Frontend Academy Syllabus
 | Topic                                          |Hours|
 | ---------                                      |:---:|
+| <strong>I. Web UI Dev & Design</strong>        |(54) |
 | HTML                                           | 12  |
 | CSS                                            | 12  |
 | CSS frameworks (Bootstrap)	                   | 3   |
@@ -18,18 +23,22 @@
 | Individual Portfolio Project	                 | 3   |
 | Git & GitHub & VSCode                          | 6   |
 | Intro to Web Browsers & the DOM                | 9   |
-| JavaScript Essentials	                         | 12  |
-| JSON & AJAX	& HTTP/S & APIs                    | 9   |
-| Advanced JavaScript	& ES6+                     | 15  |
+| <strong>II. Frontend Essentials</strong>       |(54) |
+| JavaScrip& ES6 Essentials                      | 12  |
+| JSON & AJAX	& HTTP/S                           | 6   |
+| REST & GraphQL APIs                            | 6   |
 | Functional Programming & CS Concepts           | 6   |
 | Javascript Application Project                 | 3   |
-| Javascript Design Patterns	                   | 15  |
-| React	& JS Frameworks                          | 12  |
-| JS Build Tools (CRA, Webpack, Snowpack)        | 6   |
-| Linting & Testing                              | 3   |
+| Javascript Design Patterns	                   | 12  |
+| Intro to React	& JS Frameworks                | 9   |
+| <strong>III. Advanced JS & React</strong>      |(72) |
+| Advanced JavaScript	& beyond ES6               | 12  |
+| JS Build Tools (Parcel, Webpack, Snowpack)     | 6   |
 | Performance & Debugging                        | 6   |
+| Linting & Testing                              | 3   |
+| Advanced React                                 | 9   |
 | State Management (Context, Redux)	             | 6   |
-| Node, Firebase	                               | 12  |
+| Node, Firebase	                               | 9   |
 | Final React Project (CRUD Application)         | 12  |
 | Resume, Interviewing and Career Skills	       | 9   |
 | Total	                                         | 180 |
