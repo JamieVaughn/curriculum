@@ -17,16 +17,17 @@
 | <strong>I. Web UI Dev & Design</strong>        |(54) |
 | HTML                                           | 12  |
 | CSS                                            | 12  |
+| GitHub & VSCode                                | 3   |
 | CSS frameworks (Bootstrap)	                   | 3   |
 | Mobile Responsive Design                       | 6   |
 | Accessibility	& UI/UX                          | 3   |
 | Individual Portfolio Project	                 | 3   |
-| Git & GitHub & VSCode                          | 6   |
 | Intro to Web Browsers & the DOM                | 9   |
 | <strong>II. Frontend Essentials</strong>       |(54) |
-| JavaScrip& ES6 Essentials                      | 12  |
+| JavaScript & ES6 Essentials                    | 12  |
 | JSON & AJAX	& HTTP/S                           | 6   |
 | REST & GraphQL APIs                            | 6   |
+| Git & Version Control                          | 3   |
 | Functional Programming & CS Concepts           | 6   |
 | Javascript Application Project                 | 3   |
 | Javascript Design Patterns	                   | 12  |
