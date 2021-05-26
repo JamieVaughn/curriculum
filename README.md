@@ -5,7 +5,7 @@
   * See Full Course Offerings [here](https://workforceforward.com/professional-development/)
 
 ## Course & Instructors
-  * [Frontend Developer Professional](https://campusce.monroecc.edu/monroecc/course/course.aspx?C=621)
+  * [Web Development & Design Professional](https://campusce.monroecc.edu/monroecc/course/course.aspx?C=828)
   * Remote for now, otherwise at MCC Downtown Campus, 7th Floor, Room 702
   * Meets Tuesdays and Thursdays, 6:30 - 9:30pm (Start Date: TBD)
 
