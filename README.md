@@ -47,7 +47,7 @@
 
 #### Typical Classroom Segments
   * 10 minutes of Inspiration: Sharing code samples, articles, and external learning resources etc.
-  * Frontend Coding Warm-up Challenge
+  * Frontend Coding Warm-up Challenge or Quiz
   * Homework Session: previous and next HW Q&A
   * Main Lecture Topic: Slides & Review of Primary Course Material
     - Fundamentals of the Web
@@ -64,7 +64,7 @@
 * Awarded to students based on attendance and completion of homework & projects
 
 ##### Other Online Class Resources
-  * Communication: [Slack](frontendacademy.slack.com)
+  * Communication: [Discord](discord.com)
   * Recommended Text Editor: [VS Code](https://code.visualstudio.com/)
   * Online editor: [Glitch](https://glitch.com)
   * Frontend Docs: [MDN](https://developer.mozilla.org/en-US/), [Stack Overflow](stackoverflow.com)
